@@ -7,3 +7,7 @@ box-sizing: border-box;
 .stick {
 	position: sticky;
 }
+
+html{
+	scroll-behavior: smooth;
+}
